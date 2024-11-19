@@ -1,0 +1,71 @@
+.bg{
+    color: aliceblue;
+    background-image: linear-gradient(rgb(3, 2, 44),rgb(46, 1, 31));
+}
+.name{
+    font-size: 80px;
+    background: -webkit-linear-gradient(rgb(158, 20, 105),rgb(201, 219, 209));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.name-p{
+    font-size: 25px;
+}
+.name-img{
+    height: 400px;
+    width: 400px;
+    margin: 60px;
+}
+.name-button{
+    padding: 7px;
+    width: 130px;
+    border-width: 0px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: 500;
+    background-image: linear-gradient(rgb(87, 77, 197),rgb(145, 77, 197));
+}
+.about-bg{
+    background-color: rgba(0, 0, 0, 0.518);
+    padding: 20px;
+}
+.about-img{
+    margin: 20px;
+    height: 400px;
+    width: 500px;
+}
+.about-bg2{
+    background-color: rgba(0, 0, 0, 0.792);
+    padding: 20px;
+}
+.logo{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: rgba(240, 232, 240, 0.53);
+    border-radius: 60px;
+    padding: 20px;
+}
+.e-logo{
+    height: 150px;
+    width: 150px;
+}
+.e-logo1{
+    margin-top: 12px;
+    height: 130px;
+    width: 120px;
+}
+.bg-experience{
+    height: 400px;
+    width: 400px;
+    background-image: conic-gradient(red,blue,green,yellow)
+}
+.experience-img{
+    height: 200px;
+    width: 200px;
+}
+.bg-experience2{
+    background-color: black;
+    margin: 10px;
+}
